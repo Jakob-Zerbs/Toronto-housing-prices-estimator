@@ -11,3 +11,4 @@ There were a variety of features as mentioned taken into consideration for the M
 - type of property
 - nearby amenities (i.e. nearest distance to schools, grocery stores etc.)
 - Rankings of nearest schools
+![Image 1](model_loss.png)
