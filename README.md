@@ -17,7 +17,7 @@ There were a variety of features as mentioned taken into consideration for the M
 ![Image 2](figures/heatmap.png)
 
 # NN Archetecture
-![Image 3](figures/correlations.png)
+![Image 3](figures/archetecture.png)
 ![Image 4](figures/model_loss.png)
 
 # Results
